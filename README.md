@@ -9,4 +9,6 @@
 - 🔑 Certificate ID: d47c0da675534366a10e486d8a3f40b8
 ### 📄 Certificate Preview
 
-![Harvard Certificate](https://raw.githubusercontent.com/Vipx13/certificates/main/Harvard_Certificate_Computer_Science_Cybersecurity_Abdulaziz_Dahham.jpg)
+### 📄 Certificate Preview
+
+![Harvard Certificate](https://raw.githubusercontent.com/Vipx13/certificates/main/harvard_certificate.jpeg)
